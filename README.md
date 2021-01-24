@@ -7,6 +7,7 @@
 *italic*
 **BOLD**
 ***italic+BOLD***
+---
 ~~Delete~~
 > 다음은 합성한 음성파일입니다 - **by C.H.KWON**
 
@@ -49,6 +50,8 @@ setup.sh
 ```
 
 두 개의 수식을  $\alpha_1 + \beta_2$ 더한다.
+
+----
 $$ (equation-center)^2 $$
 
 
