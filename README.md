@@ -49,9 +49,15 @@ main() {
 setup.sh
 ```
 
+<<<<<<< HEAD
 두 개의 수식을  $ \alpha_1 + \beta_2 $ 더한다.
 
 수식을 화면 중간에 배치
+=======
+두 개의 수식을  $\alpha_1 + \beta_2$ 더한다.
+
+----
+>>>>>>> parent of 81aca91... 수식
 $$ (equation-center)^2 $$
 
 
