@@ -1,12 +1,13 @@
-**Tacotron-2**  
-Paper:   [Natural TTS Synthesis By Conditioning Wavenet on Mel Spectogram Predictions](https://arxiv.org/pdf/1712.05884.pdf)  
-GitHub: [Tensorflow Implementation of DeepMind's Tacotron-2](https://github.com/Rayhane-mamah/Tacotron-2)  
+**Transformer**  
+Paper:   [ESPnet: End-to-End Speech Processing Toolkit] (https://arxiv.org/pdf/1804.00015.pdf)  
+           [ESPNET-TTS: UNIFIED, REPRODUCIBLE, AND INTEGRATABLE OPEN SOURCE END-TO-END TEXT-TO-SPEECH TOOLKIT] (https://arxiv.org/pdf/1910.10909.pdf)  
+GitHub: [Pytorch Implementation of Transformer by ESPnet] (https://github.com/espnet/espnet/tree/master/egs/ljspeech/tts1)  
 
-**WaveNet**  
-Paper:   [WaveNet: A Genarative Model For Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)  
-GitHub: [PyTorch Implementation of the WaveNet Vocoder](https://github.com/r9y9/wavenet_vocoder)  
+**Parallel WaveGAN**  
+Paper:   [PARALLEL WAVEGAN: A FAST WAVEFORM GENERATION MODEL BASED ON GENERATIVE ADVERSARIAL NETWORKS WITH MULTI-RESOLUTION SPECTROGRAM] (https://arxiv.org/pdf/1910.11480.pdf)  
+GitHub: [PyTorch Implementation of Parallel WaveGAN] (https://github.com/kan-bayashi/ParallelWaveGAN)  
 
 **Audio Sample**  
-[sample1](https://chkwon19.github.io/Tacotron2_WaveNet/synth12.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveNet/synth14.wav)   
+[sample1](https://chkwon19.github.io/Transformer_ParallelWaveGAN/example_12_gen.wav)	[sample2](https://chkwon19.github.io/Transformer_ParallelWaveGAN/example_20_gen.wav)   
 
 
