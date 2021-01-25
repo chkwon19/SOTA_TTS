@@ -49,14 +49,11 @@ main() {
 setup.sh
 ```
 
-두 개의 수식을  $
-\alpha_1 + \beta_2
-$ 더한다.
+두 개의 수식을  $ \alpha_1 + \beta_2 $ 더한다.
 
 수식을 화면 중간에 배치
-$$ 
-(equation-center)^2 
-$$
+$$ (equation-center)^2 $$
+
 
 
 
