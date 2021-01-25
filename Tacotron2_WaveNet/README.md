@@ -8,5 +8,6 @@ GitHub: [PyTorch Implementation of the WaveNet Vocoder](https://github.com/r9y9/
 
 **Audio Sample**  
 [sample1](https://chkwon19.github.io/Tacotron2_WaveNet/synth12.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveNet/synth14.wav)  
+[sample1](https://raw.githubusercontent.com/chkwon19/Practice/master/Tacotron2_WaveNet/synth12.wav) [sample2](https://raw.githubusercontent.com/chkwon19/Practice/master/Tacotron2_WaveNet/synth14.wav)
 
 
