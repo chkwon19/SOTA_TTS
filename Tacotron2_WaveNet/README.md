@@ -7,6 +7,6 @@ Paper:   [WaveNet: A Genarative Model For Raw Audio](https://arxiv.org/pdf/1609.
 GitHub: [PyTorch Implementation of the WaveNet Vocoder](https://github.com/r9y9/wavenet_vocoder)  
 
 **Audio Sample**  
-[sample1](chkwon19.github.io/Tacotron2_WaveNet/synth12.wav)	[sample2](chkwon19.github.io/Tacotron2_WaveNet/synth14.wav)  
+[sample1](https://chkwon19.github.io/Tacotron2_WaveNet/synth12.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveNet/synth14.wav)  
 
 
