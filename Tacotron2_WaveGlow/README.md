@@ -7,7 +7,7 @@ Paper:   [WAVEGLOW: A FLOW-BASED GENERATIVE NETWORK FOR SPEECH SYNTHESIS](https:
 GitHub: [Pytorch Implementation of NVidia's WaveGlow by NVidia](https://github.com/NVIDIA/waveglow?fbclid=IwAR0o8oM_Ys4RRFvxvBN54e55joVkxOB5-f0c1CzBJE5Z8Kz3LM3IHMFuv3Y)  
 
 **Audio Sample**  
-[sample1](https://chkwon19.github.io/Tacotron2_WaveGlow/32.wav_synthesis.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveGlow/130.wav_synthesis.wav)   
+[sample1](https://chkwon19.github.io/Tacotron2_WaveGlow/130.wav_synthesis.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveGlow/32.wav_synthesis.wav)   
 
 
 
