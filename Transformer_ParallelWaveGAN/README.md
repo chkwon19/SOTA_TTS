@@ -1,6 +1,6 @@
 **Transformer**  
 Paper:   [ESPnet: End-to-End Speech Processing Toolkit](https://arxiv.org/pdf/1804.00015.pdf)  
-           [ESPNET-TTS: UNIFIED, REPRODUCIBLE, AND INTEGRATABLE OPEN SOURCE END-TO-END TEXT-TO-SPEECH TOOLKIT](https://arxiv.org/pdf/1910.10909.pdf)  
+Paper:   [ESPNET-TTS: UNIFIED, REPRODUCIBLE, AND INTEGRATABLE OPEN SOURCE END-TO-END TEXT-TO-SPEECH TOOLKIT](https://arxiv.org/pdf/1910.10909.pdf)  
 GitHub: [Pytorch Implementation of Transformer by ESPnet](https://github.com/espnet/espnet/tree/master/egs/ljspeech/tts1)  
 
 **Parallel WaveGAN**  
