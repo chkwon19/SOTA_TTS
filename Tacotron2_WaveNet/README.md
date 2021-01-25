@@ -10,8 +10,8 @@ GitHub: [PyTorch Implementation of the WaveNet Vocoder](https://github.com/r9y9/
 [sample1](https://chkwon19.github.io/Tacotron2_WaveNet/synth12.wav)	[sample2](https://chkwon19.github.io/Tacotron2_WaveNet/synth14.wav)   
 
 ```python
-# Range [0, 4] was used for training Tacotron2 but WaveNet vocoder assumes [0, 1]
-  mel = np.interp(mel, (0, 4), (0, 1))
+# Range [0, 4] is used for training Tacotron2 but WaveNet vocoder assumes [0, 1]
+mel = np.interp(mel, (0, 4), (0, 1))
 ```
 
 
