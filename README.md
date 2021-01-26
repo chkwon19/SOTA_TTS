@@ -6,8 +6,8 @@
     - 스펙트로그램에서 음성신호를 합성하는 보코더 
         - WaveGlow, WaveNet, WaveRNN, ParallelWaveGAN 등  
 - Text2Mel의 출력과 보코더의 입력인 멜 스펙트로그램 정규화 일치 작업 필요  
-    - ex) Tacotron2 - WaveGNet  
+    - ex) Tacotron2 - WaveNet  
     - ```python
-      # Tacotron2 : range [0, 4],  WaveNet : range [0, 1]
-      mel = numpy.interp(mel, (0, 4), (0, 1))
+    # Tacotron2 : range [0, 4],  WaveNet : range [0, 1]
+    mel = numpy.interp(mel, (0, 4), (0, 1))
       ```
